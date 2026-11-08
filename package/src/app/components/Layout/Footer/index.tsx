@@ -75,7 +75,7 @@ const Footer = () => {
 
         <div className='py-5 text-center'>
           <p className='text-sm text-black/50'>
-            © {new Date().getFullYear()} His Grace Ministry International. All
+            © {new Date().getFullYear()} His Grace Ministry International. <br /> All
             rights reserved.
           </p>
         </div>
